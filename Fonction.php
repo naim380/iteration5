@@ -1,8 +1,6 @@
 <?php
-
-displayArticle($Article){
-
-    
-}
-
+include_once ('functions.php');
+//displayArticle($Article){
+//}
+displayitem('toto','10','toto.jpg');
 ?>

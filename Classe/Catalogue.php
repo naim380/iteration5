@@ -1,5 +1,6 @@
 <?php
-
+require_once "Bdd.php";
+require_once "Article.php";
 class Catalogue{
 
     public  $id,
@@ -12,5 +13,5 @@ class Catalogue{
             $quantity;
 }
 
-function displahy
+function display
 ?>
